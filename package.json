@@ -1,0 +1,19 @@
+{
+  "name": "ts-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc app.ts -w",
+    "build": "tsc app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.3.33",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "typescript": "^3.8.3"
+  }
+}
